@@ -4,6 +4,7 @@
 int op_cnt;
 int buffer[10010];
 
+
 int imax(int a, int b) {
 	if (a > b)
 		return a;
